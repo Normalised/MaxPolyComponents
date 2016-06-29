@@ -83,7 +83,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 62.0, 138.0, 196.0, 176.0 ],
+					"patching_rect" : [ 72.0, 154.0, 196.0, 176.0 ],
 					"varname" : "LFO_UI",
 					"viewvisibility" : 1
 				}
@@ -104,7 +104,7 @@
 					"destination" : [ "obj-1", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 626.5, 752.0, 48.0, 752.0, 48.0, 132.0, 71.5, 132.0 ],
+					"midpoints" : [ 626.5, 752.0, 48.0, 752.0, 48.0, 132.0, 81.5, 132.0 ],
 					"source" : [ "obj-3", 1 ]
 				}
 
@@ -120,18 +120,18 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-1::obj-144" : [ "Phase", "Phase", 0 ],
+			"obj-1::obj-55" : [ "Hold", "Hold", 0 ],
 			"obj-1::obj-58" : [ "SyncRate", "Rate", 0 ],
-			"obj-1::obj-94" : [ "Re-Trigger", "Re-Trigger", 0 ],
-			"obj-1::obj-73" : [ "Jitter", "Jitter", 0 ],
-			"obj-1::obj-87" : [ "Smooth", "Smooth", 0 ],
+			"obj-1::obj-88" : [ "Time Mode", "Time Mode", 1 ],
 			"obj-1::obj-120" : [ "Offset", "Offset", 0 ],
-			"obj-1::obj-57" : [ "Invert", "Phase-Inversion", 1 ],
-			"obj-1::obj-89" : [ "FreqRate", "Rate", 0 ],
+			"obj-1::obj-73" : [ "Jitter", "Jitter", 0 ],
+			"obj-1::obj-94" : [ "Re-Trigger", "Re-Trigger", 0 ],
+			"obj-1::obj-144" : [ "Phase", "Phase", 0 ],
 			"obj-1::obj-79" : [ "Shape", "Shape", 0 ],
 			"obj-1::obj-99" : [ "Depth", "Depth", 0 ],
-			"obj-1::obj-88" : [ "Time Mode", "Time Mode", 1 ],
-			"obj-1::obj-55" : [ "Hold", "Hold", 0 ]
+			"obj-1::obj-57" : [ "Invert", "Phase-Inversion", 1 ],
+			"obj-1::obj-89" : [ "FreqRate", "Rate", 0 ],
+			"obj-1::obj-87" : [ "Smooth", "Smooth", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
